@@ -6,3 +6,4 @@ print("world")
 #开发货架商品识别模块1/2
 print("a,b,c")
 print("d,e,f")
+print("q,w,e")
